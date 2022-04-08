@@ -60,6 +60,7 @@ body {
     font-family: 'Barlow', 'Fraunces', sans-serif;
 }
 
+
 img {
     display: inline-block;
 }
@@ -68,6 +69,10 @@ img {
     width: 1320px;
     margin: 0 auto;
     padding: 0 20px;
+}
+
+html {
+    scroll-behavior: smooth;
 }
 
 .visually-hidden {
