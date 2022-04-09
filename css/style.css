@@ -60,7 +60,6 @@ body {
     font-family: 'Barlow', 'Fraunces', sans-serif;
 }
 
-
 img {
     display: inline-block;
 }
@@ -169,4 +168,40 @@ img {
     font-size: 16px;
     line-height: 26px;
     color: #FEFCF7;
+}
+
+/* COMMITMENT */
+
+.commitment {
+    padding-bottom: 256px;
+}
+
+.commitment-container {
+    width: 1150px;
+    display: flex;
+    align-items: center;
+}
+
+.commitment-right {
+    margin-left: 125px;
+}
+
+.commitment-heading {
+    margin: 0;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #333D4B;
+}
+
+.commitment-desc {
+    width: 540px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    color: #333D4B;
+    mix-blend-mode: normal;
+    opacity: 0.8;
 }
