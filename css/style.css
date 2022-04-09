@@ -136,3 +136,37 @@ img {
 .header-link:active {
     opacity: 04;
 }
+
+/* MAIN */
+/* HERO */
+
+.hero {
+    padding-bottom: 168px  ;
+}
+
+.hero-container {
+    background-image: url(../images/blackcofe.png);
+    background-size: cover;
+}
+
+.hero-left {
+    padding: 137px 85px;
+}
+
+.hero-heading {
+    margin: 0;
+    margin-bottom: 24px;
+    font-family: 'Fraunces';
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.hero-desc {
+    width: 445px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+}
