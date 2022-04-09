@@ -205,3 +205,49 @@ img {
     mix-blend-mode: normal;
     opacity: 0.8;
 }
+
+/* QUALITY */
+
+.quality {
+    padding-bottom: 168px;
+}
+
+.quality-container {
+    display: flex;
+    background: #2A313A;
+}
+
+.quality-left {
+    padding-top: 88px;
+    padding-bottom: 176px;
+    padding-left: 85px;
+}
+
+.quality-heading {
+    margin: 0;
+    margin-bottom: 32px;
+    font-family: 'Fraunces';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 48px;
+    color: #FEFCF7;
+}
+
+.quality-desc {
+    width: 540px;
+    margin: 0;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FEFCF7;
+    mix-blend-mode: normal;
+    opacity: 0.8;
+}
+
+.quality-img {
+    margin-left: 125px;
+    position: relative;
+    top: -88px;
+}
+
+/* NATION */
